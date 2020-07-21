@@ -1,0 +1,19 @@
+{
+  "name": "delete_me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "handlebars": "^4.7.6",
+    "http-errors": "^1.8.0",
+    "mongoose": "^5.9.20",
+    "nodemon": "^2.0.4"
+  }
+}
